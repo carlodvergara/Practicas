@@ -49,16 +49,16 @@ body{
   main{
     width: 40rem;
     height: 20rem;
-    background-color: #2885ff;
+    background-color: #70aeff;
     display: flex;
     justify-content: center;
     align-items: center;   
-    border: solid black 3px; 
+    border: solid black 3px;  
   }
 
 
   h1{
-    color: black;
+    color: rgb(0, 0, 0);
     font-family: "poppins";
     font-weight: 600;
     font-size: 1.9rem;

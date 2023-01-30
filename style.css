@@ -39,9 +39,11 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
+    flex-direction: column;
     width: 100vw;
     height: 100vh;
     background-color: aliceblue;
+    gap: 1rem;
 }
 
   main{
@@ -60,4 +62,16 @@ body{
     font-family: "poppins";
     font-weight: 600;
     font-size: 1.9rem;
+  }
+
+
+  .prueba1{
+    width: 40rem;
+    height: 20rem;
+    background-color: rgb(255, 205, 205);
+    display: flex;
+    justify-content: center;
+    align-items: center;   
+    border: solid black 3px; 
+
   }
